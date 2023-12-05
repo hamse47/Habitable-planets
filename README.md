@@ -36,10 +36,8 @@ The application uses data from:
 ### NASA Exoplanet Archive or the kepler_data.csv file i already added for you
 
 
-Screenshot 2
-Caption for Screenshot 2
+![subheader Image](https://c8.alamy.com/comp/HRJM3P/kepler-habitable-zone-exoplanets-lined-up-HRJM3P.jpg)
 
-... additional screenshots ...
 
 Contributing
 Contributions to the Habitable Planets are welcome. Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
