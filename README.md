@@ -1,7 +1,10 @@
 # Habitable-planets
 
 ## Overview
-The Habitable Planets Finder is a Node.js application that leverages data from the NASA Exoplanet Archive to identify exoplanets that may be habitable. This tool processes extensive astronomical data, focusing on exoplanets and their host stars, and applies specific criteria to filter out those that might support habitable environments.
+The Habitable Planets is a Node.js application that leverages data from the NASA Exoplanet Archive to identify exoplanets that may be habitable. This tool processes extensive astronomical data, focusing on exoplanets and their host stars, and applies specific criteria to filter out those that might support habitable environments.
+
+![Header Image](https://i0.wp.com/www.americaspace.com/wp-content/uploads/2013/01/NASA-illustration-of-planets-discovered-by-the-Kepler-telescope-used-by-AmericaSpace.jpg)
+
 
 ## Features
 - Utilizes data from the NASA Exoplanet Archive.
@@ -25,17 +28,13 @@ npm install
 ```bash
 node app.js
 ```
-Replace app.js with the entry file of your project.
+### Replace app.js with the entry file of your project.
 
-Data Sources
+### Data Sources
 The application uses data from:
 
-NASA Exoplanet Archive
+### NASA Exoplanet Archive or the kepler_data.csv file i already added for you
 
-Screenshots
-Here you can add screenshots of your application in action.
-Screenshot 1
-Caption for Screenshot 1
 
 Screenshot 2
 Caption for Screenshot 2
@@ -43,16 +42,13 @@ Caption for Screenshot 2
 ... additional screenshots ...
 
 Contributing
-Contributions to the Habitable Planets Finder are welcome. Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+Contributions to the Habitable Planets are welcome. Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 
 Authors
-Your Name - Initial work - YourUsername
+Hamza Odowa - Initial work - hamse47
 Acknowledgments
 NASA Exoplanet Archive for providing the data used in this project.
-Any other acknowledgments, like contributors, mentors, etc.
-License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 ```bash
-
 Feel free to modify and expand upon this template based on the specifics of your project, such as additional features, detailed instructions, and actual paths to screenshots.
 ```
